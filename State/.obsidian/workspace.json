@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "a0d8e151a00b1469",
+    "type": "split",
+    "children": [
+      {
+        "id": "a69d5cdc32fef2d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18dccc6ac93a6b66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/ZMA.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f0709357ab0cdccd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "822734b32a2107e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/ZMA.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef1b2f4e465dbb28",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cf29381de1cc953",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcd89df8bd47f00b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2e8bf36cc44d93a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee4a8b25f5083e1c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f7a608b57e22d413",
+    "type": "split",
+    "children": [
+      {
+        "id": "c23e9daacfc4c9e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "136b043530bb2a06",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Math/ZMA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5d7c8dec8dd0fca2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Math/ZMA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2bd5ead04a86319e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4d8d48234055a7c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Math/ZMA.md"
+              }
+            }
+          },
+          {
+            "id": "1046167cda57e9c7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1046167cda57e9c7",
+  "lastOpenFiles": [
+    "state",
+    "IMGs/Pasted image 20240517164510.png",
+    "Math/ZMA.md",
+    "IMGs/Pasted image 20240517164420.png",
+    "IMGs/Pasted image 20240517164221.png",
+    "IMGs/Pasted image 20240517164154.png",
+    "IMGs/Pasted image 20240517163901.png",
+    "IMGs/Pasted image 20240517163832.png",
+    "IMGs/Pasted image 20240517163507.png",
+    "IMGs",
+    "IMGs/Pasted image 20240517162952.png",
+    "Example.md",
+    "Ava - Getting Started.md",
+    "Welcome.md",
+    "Math"
+  ]
+}
